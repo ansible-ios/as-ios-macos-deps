@@ -1,3 +1,12 @@
+# as-ios-macos-deps
+
+Ansible Messenger — общие модули iOS, используемые клиентом macOS.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Telegram iOS Source Code Compilation Guide
 
 We welcome all developers to use our API and source code to create applications on our platform.
